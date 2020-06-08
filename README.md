@@ -1,2 +1,3 @@
-# python
-Study notes.
+# 內容簡介
+
+
