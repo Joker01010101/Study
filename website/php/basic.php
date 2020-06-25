@@ -1,3 +1,5 @@
+<!-- ref:https://www.w3schools.com/php/php_datatypes.asp -->
+<!-- ref:https://www.w3schools.com/php/php_string.asp -->
 <?php 
 $x = "what's your name?";
 $y = 'My name is Max';
@@ -38,3 +40,4 @@ echo strpos("I love listening to music","love")
 echo str_replace("batman","joker","He is batman.")
 // output:He is joker.
 ?>
+
