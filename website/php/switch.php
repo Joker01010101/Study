@@ -15,4 +15,5 @@ switch ($character) {
   default:
     echo "Who are you! Don't jokes on me";
 }
+// output:Your are joker!
 ?>
