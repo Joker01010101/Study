@@ -1,19 +1,19 @@
-lecture1.基本語法
+lecture1. 基本語法
 
-lecture2.Regression
+lecture2. Regression
 
-lecture3.Classification
+lecture3. Classification
 
-lecture4.Logistic Regression
+lecture4. Logistic Regression
 
-lecture5.Decision Tree
+lecture5. Decision Tree
 
-lecture6.Bayesian
+lecture6. Bayesian
 
-lecture7.集成方法
+lecture7. 集成方法
 
-lecture8.SVM
+lecture8. SVM
 
-lecture9.Clustering
+lecture9. Clustering
 
 lecture10.
