@@ -10,10 +10,10 @@ lecture5.Decision Tree
 
 lecture6.Bayesian
 
-lecture7.
+lecture7.集成方法
 
-lecture8.
+lecture8.SVM
 
-lecture9.
+lecture9.Clustering
 
 lecture10.
