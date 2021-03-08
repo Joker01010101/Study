@@ -16,4 +16,6 @@ lecture8. SVM
 
 lecture9. Clustering
 
-lecture10.
+lecture10.評估
+
+期末作業：[資料來源＆資料說明(kkbox)](https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data)
